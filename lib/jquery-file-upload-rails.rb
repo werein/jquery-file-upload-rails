@@ -1,0 +1,1 @@
+require 'jquery_file_upload/rails'

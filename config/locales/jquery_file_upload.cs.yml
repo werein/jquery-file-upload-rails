@@ -1,0 +1,16 @@
+cs:
+  jquery_file_upload:
+    basic_plus_ui:
+      upload:
+        processing: Nahrávám ...
+        start: Nahrát
+        cancel: Zrušit
+      download:
+        cancel: Zrušit
+        delete: Smazat
+        error: Error
+      form:
+        add_files: Přidat sobory ...
+        start: Nahrát vše
+        cancel: Zrušit vše
+        delete: Smazat označené

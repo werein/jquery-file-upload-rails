@@ -1,0 +1,16 @@
+en:
+  jquery_file_upload:
+    basic_plus_ui:
+      upload:
+        processing: Processing ...
+        start: Start
+        cancel: Cancel
+      download:
+        cancel: Cancel
+        delete: Delete
+        error: Error
+      form:
+        add_files: Add files ...
+        start: Start upload
+        cancel: Cancel upload
+        delete: Delete
